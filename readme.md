@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  
+  <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/b561ad3e-a5e9-4de5-8c99-bd8db0e54426"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/b561ad3e-a5e9-4de5-8c99-bd8db0e54426.svg" alt="wakatime"></a>
 </p>
 
 <p align="center">
@@ -23,6 +23,10 @@ Repositório criado para a Semana do Python na Prática da Empowerdata.
 ### 🏋️ Projeto 1: Gerando PDF de Orçamento
 
 [Projeto 1](./aula_1/projeto_01.py)
+
+### 🏋️ Projeto 2: Como automatizar tarefas no Python
+
+[Projeto 2](./aula_2/projeto_02.py)
 
 ## 🚀 Tecnologias
 
