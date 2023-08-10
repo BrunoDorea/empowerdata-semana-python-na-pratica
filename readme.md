@@ -28,6 +28,10 @@ Repositório criado para a Semana do Python na Prática da Empowerdata.
 
 [Projeto 2](./aula_2/projeto_02.py)
 
+### 🏋️ Projeto 3: Análise de dados e gráficos no Python
+
+[Projeto 3](./aula_3/projeto_03.py)
+
 ## 🚀 Tecnologias
 
 <p align="center">
