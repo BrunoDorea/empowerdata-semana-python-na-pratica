@@ -31,6 +31,13 @@ Repositório criado para a Semana do Python na Prática da Empowerdata.
 ### 🏋️ Projeto 3: Análise de dados e gráficos no Python
 
 [Projeto 3](./aula_3/projeto_03.py)
+### 🏋️ Projeto 3: Análise de dados e gráficos no Python
+
+[Projeto 3](./aula_3/projeto_03.py)
+
+### 🏋️ Projeto 4: Como usar Python para Inteligência artificial
+
+[Projeto 4](./aula_4/projeto_04.py)
 
 ## 🚀 Tecnologias
 
